@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohan Krishnans notes online</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mohan Krishnans notes online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Nov 2020 19:00:59 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pitr</title>
+      <link>http://localhost:1313/postgresql/pitr/</link>
+      <pubDate>Sat, 28 Nov 2020 19:00:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/postgresql/pitr/</guid>
+      <description>Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles, California by drummer Lars Ulrich and vocalist/guitarist James Hetfield, and has been based in San Francisco, California for most of its career. The group’s fast tempos, instrumentals and aggressive musicianship made them one of the founding &amp;ldquo;big four&amp;rdquo; bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica’s current lineup comprises founding members Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert Trujillo.</description>
+    </item>
+    
+  </channel>
+</rss>
